@@ -60,3 +60,8 @@ a {
 .center {
     text-align: center;
 }
+
+.header {
+    position: relative;
+    top: 10px;
+}
